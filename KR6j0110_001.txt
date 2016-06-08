@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:26:03.324834
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:18
 #+TITLE: 釋迦文尼佛金剛一乘修行儀軌法品
 #+PROPERTY: CBETA_ID T19n0938
 #+PROPERTY: ID KR6j0110
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 938
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0110_T_000-0086c>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0110_T_001-0086c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.938¶
-
- 釋迦文尼佛金剛一乘修行儀¶
+No. 938¶
+釋迦文尼佛金剛一乘修行儀¶
 軌法品一卷¶
 ¶
 
@@ -160,4 +159,4 @@ No.938¶
 為結護明王(又名無能勝)如是勸修然後出道場。轉¶
 誦大乘心常繫一實境。無有間斷是法易成¶
 也。釋迦牟曩曳微妙金剛乘法說已竟。¶
-釋迦文佛法一卷
+釋迦文佛法一甲乙丙三本俱有傳法阿闍梨深祕之故不載於錄仁和尚十六字，甲本奧書曰久安五年七月九日奉受了，乙本奧書曰證印本也，丙本奧書曰康和五年七月八日午刻於鳥羽殿奉書了卷卷
